@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ready Bot1
+* source:	https://sketchfab.com/3d-models/ready-bot1-6dd76e5ca24c4c78ab33bc8fd3e1e7ac
+* author:	meadityaraj0001 (https://sketchfab.com/meadityaraj0001)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ready Bot1" (https://sketchfab.com/3d-models/ready-bot1-6dd76e5ca24c4c78ab33bc8fd3e1e7ac) by meadityaraj0001 (https://sketchfab.com/meadityaraj0001) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
